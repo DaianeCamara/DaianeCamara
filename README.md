@@ -7,6 +7,7 @@
 ### Sobre mim
 Engenheira apaixonada por números e tecnologia, busco oportunidades de atuar na área de análise de dados, na qual venho estudando e aperfeiçoando técnicas e habilidades que focam nos resultados, metodologias ágeis e resolução de problemas.
 <br>
+<br>
  📍"Acredito em Deus, todos os outros devem apresentar dados." - William Edwards Deming.
  <br>
  <br>

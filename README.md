@@ -10,4 +10,4 @@ Engenheira apaixonada por números e tecnologia, busco oportunidades de atuar na
  📍"Acredito em Deus, todos os outros devem apresentar dados." - William Edwards Deming.
  <br>
  <br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Visualize meu perfil no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Daiane%20Camara-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-camara/)](https://www.linkedin.com/in/daiane-camara/)
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Visualize meu perfil no Linkedin: [![Linkedin Badge](https://img.shields.io/badge/-Daiane%20Camara-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-camara/)](https://www.linkedin.com/in/daiane-camara/)

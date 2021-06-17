@@ -1,8 +1,9 @@
 # Daiane Camara 👋
-
+###Sobre mim
 Engenheira apaixonada por números e tecnologia, busco me especializar na área de análise de dados.
 
-<img src="giphy.gif" height="200" width="200">
+<img src="giphy.gif" height="200" width="200">- 📍"Acredito em Deus, todos os outros devem apresentar dados." - William Edwards Deming.
+
 
 
 - 📍"Acredito em Deus, todos os outros devem apresentar dados." - William Edwards Deming.

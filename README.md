@@ -13,4 +13,4 @@ Engenheira apaixonada por números e tecnologia, busco oportunidades de atuar na
 <p align=center>Visualize meu perfil no Linkedin:</p>
 
 
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Linkedin Badge](https://img.shields.io/badge/-Anna%20Luiza-pink?style=flat-square&logo=Instagram&logoColor=white&link=Instagram.com/)](https://Instagram.com/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[![Linkedin Badge](https://img.shields.io/badge/-Daiane%20Camara-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-camara/)](https://www.linkedin.com/in/daiane-camara/)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀

@@ -2,7 +2,7 @@
 
 Engenheira apaixonada por números e tecnologia, busco me especializar na área de análise de dados.
 
-<img src="giphy.gif" height="100" width="100">
+<img src="giphy.gif" height="200" width="200">
 
 - 📍Teresópolis/RJ/Brazil
 - 📍ANALISTA DE DADOS/ANALISTA DE BI

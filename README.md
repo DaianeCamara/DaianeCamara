@@ -1,4 +1,4 @@
-# Bem-vindos ao meu perfil!<img align="right" alt="png" src="https://octodex.github.com/images/femalecodertocat.png" height="100" width="100">
+# Bem-vindos ao meu perfil!<img align="right" alt="png" src="https://octodex.github.com/images/femalecodertocat.png" height="150" width="150">
 
 <img align="left" alt="GIF" src="tumblr_inline_orkcojNhjl1qg8o5x_640.gif" height="200" width="200">
 

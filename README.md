@@ -1,4 +1,4 @@
-# Bem-vindos ao meu perfil ![Alt ou título da imagem](https://octodex.github.com/images/femalecodertocat.png) = 50x50
+# Bem-vindos ao meu perfil!
 
 <img align="left" alt="GIF" src="https://octodex.github.com/images/femalecodertocat.png" height="50" width="50">
 

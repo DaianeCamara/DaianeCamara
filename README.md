@@ -1,6 +1,6 @@
 # Bem-vindos ao meu perfil!
 
-<img align="left" alt="GIF" src="https://octodex.github.com/images/femalecodertocat.png" height="50" width="50">
+<img align="right" alt="GIF" src="giphy.gif" height="200" width="200">
 
 <br>
 

@@ -1,4 +1,4 @@
-# Bem-vindos ao meu perfil ![Alt ou título da imagem](https://octodex.github.com/images/femalecodertocat.png)
+# Bem-vindos ao meu perfil ![Alt ou título da imagem](https://octodex.github.com/images/femalecodertocat.png) = 50x50
 
 <img align="left" alt="GIF" src="tumblr_inline_orkcojNhjl1qg8o5x_640.gif" height="200" width="200">
 

@@ -1,6 +1,6 @@
 # Bem-Vindos ao meu perfil 👋
 
-<img aling="left" alt="GIF" src="giphy.gif" height="200" width="200">
+<img align="left" alt="GIF" src="giphy.gif" height="200" width="200">
 
 <br>
 

@@ -13,4 +13,4 @@ Engenheira apaixonada por números e tecnologia, busco oportunidades de atuar na
 <p align=center>Visualize meu perfil no Linkedin:</p>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Daiane%20Camara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-camara/)](https://www.linkedin.com/in/daiane-camara/)
+<p align=center>[![Linkedin Badge](https://img.shields.io/badge/-Daiane%20Camara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-camara/)](https://www.linkedin.com/in/daiane-camara/)</p>

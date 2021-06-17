@@ -4,9 +4,8 @@ Engenheira apaixonada por números e tecnologia, busco me especializar na área 
 
 <img src="giphy.gif" height="200" width="200">
 
-- 📍Teresópolis/RJ/Brazil
-- 📍ANALISTA DE DADOS/ANALISTA DE BI
-- 📍"Belive in yourself"
+
+- 📍"Acredito em Deus, todos os outros devem apresentar dados." - William Edwards Deming.
 
 Visualize meu perfil no Linkedin!
 

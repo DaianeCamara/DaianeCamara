@@ -10,6 +10,9 @@ Engenheira apaixonada por números e tecnologia, busco oportunidades de atuar na
  📍"Acredito em Deus, todos os outros devem apresentar dados." - William Edwards Deming.
 
 
+
+
+
 Visualize meu perfil no Linkedin!
 
 

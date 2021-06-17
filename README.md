@@ -1,6 +1,6 @@
 # Bem-vindos ao meu perfil!
 
-<img align="left" alt="GIF" src="giphy.gif" height="200" width="200">
+<img align="left" alt="GIF" src="tumblr_inline_orkcojNhjl1qg8o5x_640.gif" height="200" width="200">
 
 <br>
 
